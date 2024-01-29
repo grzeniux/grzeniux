@@ -3,11 +3,17 @@
 
 <h2> Projetcs: </h2>
 # 1. Bartender
+
 Automated bartender - a student project for the Microprocessor Techniques subject. The housing was designed in NX CAD. The microcontroller used is an STM32, specifically the NUCLEO-L432KCU6. 
 
 Video -> https://www.youtube.com/watch?v=4MyYCwuwqFg&t
 
 
+
+
+# 2. Telemetry for the track bike
+
+In the E-MOTO AGH research circle, he is carrying out, a telemetry project for a track bike that is competing in Spain at Motostudent. We are currently working with the team on the entire system
 
 <h2> Socials: </h2>
 
