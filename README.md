@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Gregor
- I'm 3rd year student of Electronics and Telecommunications at AGH UST in Poland. I am an embedded systems enthusiast and the project I am currently focusing on is the development of telemetry for trackside motorbikes. My experience includes designing with STM32 microcontrollers, Arduino, ESP32, ESP8266
+ I'm 3rd year student of Electronics and Telecommunications at AGH UST in Cracow. I am an embedded systems enthusiast and the project I am currently focusing on is the development of telemetry for trackside motorbikes. My experience includes designing with STM32 microcontrollers, Arduino, ESP32, ESP8266
 
 <h2> Projetcs: </h2>
 
