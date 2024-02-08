@@ -7,7 +7,7 @@
 
 Automated bartender - a student project for the Microprocessor Techniques subject. The housing was designed in NX CAD. The microcontroller used is an STM32, specifically the NUCLEO-L432KCU6. 
 
-Video -> https://www.youtube.com/watch?v=4MyYCwuwqFg&t
+Video -> [Bartender](https://www.youtube.com/watch?v=WFLCYr9CgAI)
 
 
 
