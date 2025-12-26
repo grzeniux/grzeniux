@@ -1,22 +1,17 @@
-### Hi there 👋, my name is Gregor
- I'm 3rd year student of Electronics and Telecommunications at AGH UST in Cracow. I am an embedded systems enthusiast and the project I am currently focusing on is the development of telemetry for trackside motorbikes. My experience includes designing with STM32 microcontrollers, Arduino, ESP32, ESP8266
+<div align="center">
 
-<h2> Projetcs: </h2>
+# Hi there, I'm Gregor! 👋
 
-#### 1. Bartender
+### Embedded Test Software Engineer | B.Sc. Electronics & Telecommunications
 
-Automated bartender - a student project for the Microprocessor Techniques subject. The housing was designed in NX CAD. The microcontroller used is an STM32, specifically the NUCLEO-L432KCU6. 
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio_Website-8A2BE2?style=for-the-badge&logo=canva&logoColor=white)](WKLEJ_TU_LINK_DO_SWOJEJ_STRONY_W_CANVA)
 
-Video -> [Bartender](https://www.youtube.com/watch?v=WFLCYr9CgAI)
+[![](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gpustelnik/)
 
+<br>
 
+I am an embedded systems enthusiast and a B.Sc. graduate from AGH UST in Krakow. My expertise lies in bridging hardware and software, with a strong focus on **STM32**, **Python**, and **Test Automation**.
 
+</div>
 
-#### 2. Telemetry for the track bike
-
-In the E-MOTO AGH research circle, he is carrying out, a telemetry project for a track bike that is competing in Spain at Motostudent. We are currently working with the team on the entire system
-
-<h2> Socials: </h2>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/grzeniux)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gpustelnik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UChZ_MKlDBVVF6zyxr7hbwjQ)  
-
+---
