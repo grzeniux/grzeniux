@@ -4,7 +4,7 @@
 
 ### Embedded Test Software Engineer | B.Sc. Electronics & Telecommunications
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio_Website-8A2BE2?style=for-the-badge&logo=canva&logoColor=white)](WKLEJ_TU_LINK_DO_SWOJEJ_STRONY_W_CANVA)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio_Website-8A2BE2?style=for-the-badge&logo=canva&logoColor=white)](https://grzeniiux.my.canva.site/website/)
 
 [![](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gpustelnik/)
 
